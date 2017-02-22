@@ -22,7 +22,7 @@ pod "CocoaPodTest"
 
 ## Author
 
-ddpiane1, dominique.d.pianelli@gmail.com
+Pianelli, dominique.d.pianelli@gmail.com
 
 ## License
 
