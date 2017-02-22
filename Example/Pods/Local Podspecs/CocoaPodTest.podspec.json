@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of CocoaPodTest.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/ddpiane1/CocoaPodTest",
+  "homepage": "https://github.com/dpianelli/CocoaPodTest",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "ddpiane1": "dominique.d.pianelli@gmail.com"
+    "dpianelli": "dominique.d.pianelli@gmail.com"
   },
   "source": {
-    "git": "https://github.com/ddpiane1/CocoaPodTest.git",
+    "git": "https://github.com/dpianelli/CocoaPodTest.git",
     "tag": "0.1.0"
   },
   "platforms": {
