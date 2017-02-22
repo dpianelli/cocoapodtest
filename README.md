@@ -1,6 +1,6 @@
 # CocoaPodTest
 
-[![CI Status](http://img.shields.io/travis/dpianelli/CocoaPodTest.svg?style=flat)](https://travis-ci.org/ddpiane1/CocoaPodTest)
+[![CI Status](http://img.shields.io/travis/dpianelli/CocoaPodTest.svg?style=flat)](https://travis-ci.org/dpianelli/CocoaPodTest)
 [![Version](https://img.shields.io/cocoapods/v/CocoaPodTest.svg?style=flat)](http://cocoapods.org/pods/CocoaPodTest)
 [![License](https://img.shields.io/cocoapods/l/CocoaPodTest.svg?style=flat)](http://cocoapods.org/pods/CocoaPodTest)
 [![Platform](https://img.shields.io/cocoapods/p/CocoaPodTest.svg?style=flat)](http://cocoapods.org/pods/CocoaPodTest)
